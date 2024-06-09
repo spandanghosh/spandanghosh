@@ -1,30 +1,23 @@
-# Spandan Ghosh - Machine Learning Enthusiast and Front-End Developer
+# Spandan Ghosh - Web Application Developer and Machine Learning Enthusiast
 
-👋 Hello, fellow developers and technology enthusiasts! I'm Spandan Ghosh, and I'm excited to welcome you to my GitHub profile!
+👋 Welcome! I'm Spandan Ghosh, a developer specializing in Spring Boot and Java for web applications, with a passion for Machine Learning.
 
 ## 👀 About Me
 
-I have a passion for the fascinating world of Machine Learning and Deep Neural Networks. Exploring the hidden patterns within data and building intelligent systems truly amazes me. From predictive modeling to computer vision, the potential of ML is boundless, and I'm thrilled to be part of this journey.
-
-In addition to my love for Machine Learning, I'm also deeply interested in Front-End Development using React and Node.js. Crafting beautiful and interactive web applications that deliver seamless user experiences is another aspect of technology that captivates me.
+I develop robust web applications using Spring Boot and Java, focusing on creating efficient and scalable solutions. Additionally, I have a strong interest in Machine Learning and Deep Neural Networks, exploring predictive modeling and computer vision.
 
 ## 🌱 Currently Learning
 
-My learning journey is an ongoing process, and I am currently diving deep into the implementation of Machine Learning Algorithms using popular libraries like PyTorch, Keras, and Tensorflow. Simultaneously, I'm honing my skills in Front-End Development, exploring the latest trends and best practices in React and Node.js.
+I'm honing my skills in web application development with Spring Boot and Java. Concurrently, I continue to deepen my knowledge in Machine Learning using libraries like PyTorch, Keras, and TensorFlow.
 
 ## 💞️ Seeking Collaborations
 
-I'm eager to collaborate on projects that not only enhance my skills in Machine Learning but also provide opportunities to contribute to cutting-edge web applications. If you have an exciting project in mind that involves ML and Front-End development, don't hesitate to reach out!
+I'm eager to collaborate on projects that combine my expertise in web application development with my interest in Machine Learning. If you have an exciting project in mind, feel free to reach out!
 
-## 📫 How to Reach Me
+## 📫 Contact Me
 
-Feel free to get in touch with me via email at ghoshspandan123@gmail.com. Whether you want to discuss collaboration opportunities or just geek out about Machine Learning and Front-End Development, I'm always open to connecting with like-minded individuals.
+Email: ghoshspandan123@gmail.com
 
 ---
 
-<!---
-spandanghosh/spandanghosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-Thank you for stopping by! Make sure to explore my repositories to find exciting ML projects, Front-End applications, and more. Let's learn, grow, and innovate together in the realm of Artificial Intelligence and Web Development! 🚀
+Thank you for visiting! Explore my repositories for projects in web application development and Machine Learning. Let's innovate together! 🚀
